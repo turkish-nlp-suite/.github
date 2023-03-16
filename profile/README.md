@@ -19,7 +19,7 @@ spaCy Turkish models comes with comprehensive tutorials and code. Please visit t
  
 :sunglasses: We love cutting edge NLP
 ====
-We corporate modern techniques into all our work including transformers, GPU computing as well as using the most efficient data structures. For some examples, the brand new Turkish spaCy model `tr_core_web_trf` is a transformer based pipeline; mini project "Quick FAQ Chatbot" integrates `sentence-transformers` and so on.  
+We corporate modern techniques into all our work including transformers, GPU computing as well as using the most efficient data structures. For some examples, the brand new Turkish spaCy model `tr_core_web_trf` is a transformer based pipeline; mini project "Quick FAQ Chatbot" integrates `sentence-transformers` and more.
 
 :blue_book:  We love compiling datasets
 ====
@@ -39,12 +39,26 @@ We also provide guidance and documentations for the ones who would like to compi
 
 :construction_worker: We love mining our datasets
 ====
+Surely we like to mine some good Turkish datasets :wink: If you'd like to do some data mining together, you can have a look at our video series [Quick recipes with spaCy Turkish](https://www.youtube.com/watch?v=w0WCkgCOzzw&list=PLJTHlIwB8VcoWxYHnsZOQCxWOraW42NBj) and [Quick FAQ Bot](https://www.youtube.com/watch?v=LUYiRfysnjY&list=PLJTHlIwB8Vcr0KHTcRRRFa3QMcI4F4lW5); or even better read the Medium blog post about [how sentiment turned into political heat after earthquake disaster](https://medium.com/p/ce65ece62aea).
 
 :movie_camera: We love documentation: Turkish NLP Youtube Channel
 ====
 
+
+
 Get started
 ====
+There are several paths to get started indeed. If you're already working with text and speech data, you can dive into Turkish only parts safely. This path includes information about Turkish linguistics, then application code. One can watch 
+* All about Turkish linguistics
+* Quick recipes with spaCy Turkish
+* Quick FAQ Bot
+* How to train spaCy models
+* Semantic Web
+If you're a junior/student or didn't work on NLP problems before, we suggest starting from the beginning. This path includes the foundational series "NLP dataset formats" and "How to compile NLP datasets". After warming up to NLP tasks and data conventions, you can dive inot the most advanced parts above :wink:
 
-Latest Medium Posts
+Latest Blog Posts
 ====
+* [Turkish NLP, a Gentle Introduction](https://medium.com/p/2b33e694dd78)
+* [Turkish Phonetics: A Quick Intro](https://medium.com/p/cf75bb7eec79)
+* [Neden yasaklandı? Depremle ilgili Ekşi Sözlük yorumlarına NLP gözüyle bakış](https://medium.com/p/ce65ece62aea)
+
