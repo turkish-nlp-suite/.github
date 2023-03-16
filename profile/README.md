@@ -43,8 +43,15 @@ Surely we like to mine some good Turkish datasets :wink: If you'd like to do som
 
 :movie_camera: We love documentation: Turkish NLP Youtube Channel
 ====
+If you like doing some pair programming, please visit our [Turkish NLP Youtube channel](https://www.youtube.com/@NLPwithDuygu/playlists). Here's a list of playlists:
 
-
+* [Veriseti formatları](https://www.youtube.com/watch?v=iAsCz1kk2Oc&list=PLJTHlIwB8VcoetgeXaSGJZ0l65DRx1wne)
+* [Veriseti nasıl derlenir](https://www.youtube.com/watch?v=XNYq58eMsgY&list=PLJTHlIwB8Vco4ONU_mCNOYIcVyFA9QrBr)
+* [Baştan sona Türkçe Linguistik](https://www.youtube.com/watch?v=ZiArCDOuNVo&list=PLJTHlIwB8Vcqltlhbmsc12Srthv73OeOF)
+* [spaCy ve Semantic Search'le hızlı FAQ Botu](https://www.youtube.com/watch?v=LUYiRfysnjY&list=PLJTHlIwB8Vcr0KHTcRRRFa3QMcI4F4lW5)
+* [Hızlı spaCy Türkçe tarifleri]( https://www.youtube.com/watch?v=w0WCkgCOzzw&list=PLJTHlIwB8VcoWxYHnsZOQCxWOraW42NBj)
+* [spaCy modeli nasıl yapılır?](https://www.youtube.com/watch?v=dTdpRP-t920&list=PLJTHlIwB8Vcp_1b1eFwKcKKmzfs16EFtH)
+* [Semantic Web](https://www.youtube.com/watch?v=rLaI7Zr7bzU&list=PLJTHlIwB8Vcp_amsALcxd5UvawDG0062x)
 
 Get started
 ====
@@ -53,7 +60,8 @@ There are several paths to get started indeed. If you're already working with te
 * Quick recipes with spaCy Turkish
 * Quick FAQ Bot
 * How to train spaCy models
-* Semantic Web
+* Semantic Web  
+
 If you're a junior/student or didn't work on NLP problems before, we suggest starting from the beginning. This path includes the foundational series "NLP dataset formats" and "How to compile NLP datasets". After warming up to NLP tasks and data conventions, you can dive inot the most advanced parts above :wink:
 
 Latest Blog Posts
