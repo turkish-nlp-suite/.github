@@ -69,4 +69,5 @@ Latest Blog Posts
 * [Turkish NLP, a Gentle Introduction](https://medium.com/p/2b33e694dd78)
 * [Turkish Phonetics: A Quick Intro](https://medium.com/p/cf75bb7eec79)
 * [Neden yasaklandı? Depremle ilgili Ekşi Sözlük yorumlarına NLP gözüyle bakış](https://medium.com/p/ce65ece62aea)
+* [A collection of brand new datasets for Turkish NLP](https://medium.com/p/fc83ca3c95df)
 
