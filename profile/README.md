@@ -71,3 +71,7 @@ Latest Blog Posts
 * [Neden yasaklandı? Depremle ilgili Ekşi Sözlük yorumlarına NLP gözüyle bakış](https://medium.com/p/ce65ece62aea)
 * [A collection of brand new datasets for Turkish NLP](https://medium.com/p/fc83ca3c95df)
 
+Publications
+====
+* [A Diverse Set of Freely Available Linguistic Resources for Turkish](https://aclanthology.org/2023.acl-long.768/)
+
