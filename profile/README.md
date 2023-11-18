@@ -75,3 +75,5 @@ Publications
 ====
 * [A Diverse Set of Freely Available Linguistic Resources for Turkish](https://aclanthology.org/2023.acl-long.768/)
 
+**Google ML Developer Programs team supported this work by providing Google Cloud Credit. Many thanks to Google Developer Experts for their generous contributions!**
+
