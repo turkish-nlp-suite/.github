@@ -70,10 +70,15 @@ Latest Blog Posts
 * [Turkish Phonetics: A Quick Intro](https://medium.com/p/cf75bb7eec79)
 * [Neden yasaklandı? Depremle ilgili Ekşi Sözlük yorumlarına NLP gözüyle bakış](https://medium.com/p/ce65ece62aea)
 * [A collection of brand new datasets for Turkish NLP](https://medium.com/p/fc83ca3c95df)
-
+* [Brand new spaCy Turkish models](https://medium.com/google-developer-experts/brand-new-spacy-turkish-models-304da649eacc)
+* [Quick recipes with spaCy Turkish: How is your infection doing?](https://medium.com/google-developer-experts/quick-recipes-with-spacy-turkish-how-is-your-infection-doing-4ee1421b2443)
+* [InstrucTurca: An open source instruction tuning dataset for Turkish](https://medium.com/google-developer-experts/instructurca-an-open-source-instruction-tuning-dataset-for-turkish-18c37b0e99b9)
+  
 Publications
 ====
 * [A Diverse Set of Freely Available Linguistic Resources for Turkish](https://aclanthology.org/2023.acl-long.768/)
-
+* [Bella Turca: A Large-Scale Dataset of Diverse Text Sources for Turkish Language Modeling](https://link.springer.com/chapter/10.1007/978-3-031-70563-2_16)
+* [Gender Bias in Turkish Word Embeddings: A Comprehensive Study of Syntax, Semantics and Morphology Across Domains](https://aclanthology.org/2024.gebnlp-1.13.pdf)
+  
 **Google ML Developer Programs team supported this work by providing Google Cloud Credit. Many thanks to Google Developer Experts for their generous contributions!**
 
