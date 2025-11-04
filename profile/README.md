@@ -45,6 +45,8 @@ Surely we like to mine some good Turkish datasets :wink: If you'd like to do som
 ====
 We compile and open source large-scale Turkish datasets for model training purposes. We proudly present **BellaTurca**, first big-scale, diverse and high quality data collection for Turkish. For more details, please visit the dataset [HF repo](https://huggingface.co/datasets/BayanDuygu/BellaTurca).
 
+Another dataset for model building is a large-scale instructions dataset for Turkish, [InstructTurca](https://huggingface.co/datasets/turkish-nlp-suite/InstrucTurca). This dataset contains translates of popular instruction tuning datasets such as OpenOrca and MedText...
+
 :movie_camera: We love documentation: Turkish NLP Youtube Channel
 ====
 If you like doing some pair programming, please visit our [Turkish NLP Youtube channel](https://www.youtube.com/@NLPwithDuygu/playlists). Here's a list of playlists:
