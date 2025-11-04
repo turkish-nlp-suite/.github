@@ -68,6 +68,10 @@ There are several paths to get started indeed. If you're already working with te
 
 If you're a junior/student or didn't work on NLP problems before, we suggest starting from the beginning. This path includes the foundational series "NLP dataset formats" and "How to compile NLP datasets". After warming up to NLP tasks and data conventions, you can dive inot the most advanced parts above :wink:
 
+Hugging Face Repo
+====
+All our models, datasets and corpora can be found under [Turkish NLP Suite HF repo](https://huggingface.co/turkish-nlp-suite).
+
 Project Blog
 ====
 Don't forget to visit our project blog for project stories, code and more: [Blog for best of Turkish NLP]()
