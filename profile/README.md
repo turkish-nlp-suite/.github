@@ -41,6 +41,10 @@ We also provide guidance and documentations for the ones who would like to compi
 ====
 Surely we like to mine some good Turkish datasets :wink: If you'd like to do some data mining together, you can have a look at our video series [Quick recipes with spaCy Turkish](https://www.youtube.com/watch?v=w0WCkgCOzzw&list=PLJTHlIwB8VcoWxYHnsZOQCxWOraW42NBj) and [Quick FAQ Bot](https://www.youtube.com/watch?v=LUYiRfysnjY&list=PLJTHlIwB8Vcr0KHTcRRRFa3QMcI4F4lW5); or even better read the Medium blog post about [how sentiment turned into political heat after earthquake disaster](https://medium.com/p/ce65ece62aea).
 
+🧠 We provide large corpora
+====
+We compile and open source large-scale Turkish datasets for model training purposes. We proudly present **BellaTurca**, first big-scale, diverse and high quality data collection for Turkish. For more details, please visit the dataset [HF repo](https://huggingface.co/datasets/BayanDuygu/BellaTurca).
+
 :movie_camera: We love documentation: Turkish NLP Youtube Channel
 ====
 If you like doing some pair programming, please visit our [Turkish NLP Youtube channel](https://www.youtube.com/@NLPwithDuygu/playlists). Here's a list of playlists:
@@ -64,7 +68,11 @@ There are several paths to get started indeed. If you're already working with te
 
 If you're a junior/student or didn't work on NLP problems before, we suggest starting from the beginning. This path includes the foundational series "NLP dataset formats" and "How to compile NLP datasets". After warming up to NLP tasks and data conventions, you can dive inot the most advanced parts above :wink:
 
-Latest Blog Posts
+Project Blog
+====
+Don't forget to visit our project blog for project stories, code and more: [Blog for best of Turkish NLP]()
+
+Medium Blog Posts
 ====
 * [Turkish NLP, a Gentle Introduction](https://medium.com/p/2b33e694dd78)
 * [Turkish Phonetics: A Quick Intro](https://medium.com/p/cf75bb7eec79)
@@ -76,9 +84,11 @@ Latest Blog Posts
   
 Publications
 ====
-* [A Diverse Set of Freely Available Linguistic Resources for Turkish](https://aclanthology.org/2023.acl-long.768/)
 * [Bella Turca: A Large-Scale Dataset of Diverse Text Sources for Turkish Language Modeling](https://link.springer.com/chapter/10.1007/978-3-031-70563-2_16)
 * [Gender Bias in Turkish Word Embeddings: A Comprehensive Study of Syntax, Semantics and Morphology Across Domains](https://aclanthology.org/2024.gebnlp-1.13.pdf)
+* [A Diverse Set of Freely Available Linguistic Resources for Turkish](https://aclanthology.org/2023.acl-long.768/)
+* [A Statistical Approach to Analyzing Turkish Morphology](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_12)
+
   
-**Google ML Developer Programs team supported this work by providing Google Cloud Credit. Many thanks to Google Developer Experts for their generous contributions!**
+**Google ML Developer Programs team supported this work by providing Google Cloud Credit. Many thanks to Google Developer Experts programme for their generous contributions!**
 
