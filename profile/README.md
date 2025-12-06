@@ -76,7 +76,7 @@ All our models, datasets and corpora can be found under [Turkish NLP Suite HF re
 
 Project Blog
 ====
-Don't forget to visit our project blog for project stories, code and more: [Blog for best of Turkish NLP]()
+Don't forget to visit our project blog for project stories, code and more: [Blog for best of Turkish NLP](https://turkish-nlp-suite.github.io/)
 
 Medium Blog Posts
 ====
