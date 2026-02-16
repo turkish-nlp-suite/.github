@@ -90,6 +90,8 @@ Medium Blog Posts
   
 Publications
 ====
+* [Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay](https://arxiv.org/abs/2602.06942))
+* [Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](https://www.arxiv.org/abs/2512.22100)
 * [Bella Turca: A Large-Scale Dataset of Diverse Text Sources for Turkish Language Modeling](https://link.springer.com/chapter/10.1007/978-3-031-70563-2_16)
 * [Gender Bias in Turkish Word Embeddings: A Comprehensive Study of Syntax, Semantics and Morphology Across Domains](https://aclanthology.org/2024.gebnlp-1.13.pdf)
 * [A Diverse Set of Freely Available Linguistic Resources for Turkish](https://aclanthology.org/2023.acl-long.768/)
