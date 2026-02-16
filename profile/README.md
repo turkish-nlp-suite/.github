@@ -87,6 +87,7 @@ Medium Blog Posts
 * [Brand new spaCy Turkish models](https://medium.com/google-developer-experts/brand-new-spacy-turkish-models-304da649eacc)
 * [Quick recipes with spaCy Turkish: How is your infection doing?](https://medium.com/google-developer-experts/quick-recipes-with-spacy-turkish-how-is-your-infection-doing-4ee1421b2443)
 * [InstrucTurca: An open source instruction tuning dataset for Turkish](https://medium.com/google-developer-experts/instructurca-an-open-source-instruction-tuning-dataset-for-turkish-18c37b0e99b9)
+* [Introducing TrGLUE: First Non-Translate Turkish NLU Benchmark Ever](https://medium.com/google-developer-experts/introducing-trglue-first-non-translate-turkish-nlu-benchmark-ever-5d37b75f91ad)
   
 Publications
 ====
