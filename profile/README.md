@@ -23,7 +23,7 @@ We corporate modern techniques into all our work including transformers, GPU com
 
 :blue_book:  We love compiling datasets
 ====
-Modern NLP revolves around data, hence labelled data (even in the msall amounts) are crucial for improving quality of many NLP tasks. As a result, compiling and serving Turkish datasets lies at the core of Turkish NLP Suite project. All of our datasets are presented with a commercial licence, completely open-source and ready to use. We also use our datasets in our projects and tutorials.
+Modern NLP revolves around data, hence labelled data (even in the small amounts) are crucial for improving quality of many NLP tasks. As a result, compiling and serving Turkish datasets lies at the core of Turkish NLP Suite project. All of our datasets are presented with a commercial licence, completely open-source and ready to use. We also use our datasets in our projects and tutorials.
 Here's a list of our datasets:
 
 * [Corona-mini](https://github.com/turkish-nlp-suite/Corona-mini-dataset) : A mini corpus of Turkish social media reviews about Corona symptoms.
@@ -46,6 +46,8 @@ Surely we like to mine some good Turkish datasets :wink: If you'd like to do som
 We compile and open source large-scale Turkish datasets for model training purposes. We proudly present **BellaTurca**, first big-scale, diverse and high quality data collection for Turkish. For more details, please visit the dataset [HF repo](https://huggingface.co/datasets/BayanDuygu/BellaTurca).
 
 Another dataset for model building is a large-scale instructions dataset for Turkish, [InstructTurca](https://huggingface.co/datasets/turkish-nlp-suite/InstrucTurca). This dataset contains translates of popular instruction tuning datasets such as OpenOrca and MedText...
+
+Our HF collection [Large Scale Turkish Corpora](https://huggingface.co/collections/turkish-nlp-suite/large-scale-turkish-corpora) contains all corpus resources.
 
 :movie_camera: We love documentation: Turkish NLP Youtube Channel
 ====
@@ -73,6 +75,13 @@ If you're a junior/student or didn't work on NLP problems before, we suggest sta
 Hugging Face Repo
 ====
 All our models, datasets and corpora can be found under [Turkish NLP Suite HF repo](https://huggingface.co/turkish-nlp-suite).
+
+Turkish NLP Benchmarking 
+===
+Our Hugging face repo include several collections including:
+
+* [Turkish Benchmarking Sets](https://huggingface.co/collections/turkish-nlp-suite/turkish-benchmarking-sets): several benchmarking sets including NER, Treebank, sentiment analysis for Turkish including the GLUE benchmark for Turkish -- TrGLUE.
+* [Turkish Sentiment Analysis Datasets](https://huggingface.co/collections/turkish-nlp-suite/turkish-sentiment-analysis-datasets): a fine collection of Turkish sentiment analysis datasets including movie reviews, customer reviews and hate speech, all included in Turkish sentiment analysis benchmark - SentiTurca.
 
 Project Blog
 ====
